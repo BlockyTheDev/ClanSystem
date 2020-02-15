@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BungeeClans/BungeeClans.iml" filepath="$PROJECT_DIR$/BungeeClans/BungeeClans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClanSystem.iml" filepath="$PROJECT_DIR$/ClanSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpigotClans/SpigotClans.iml" filepath="$PROJECT_DIR$/SpigotClans/SpigotClans.iml" />
+    </modules>
+  </component>
+</project>

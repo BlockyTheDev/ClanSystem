@@ -1,0 +1,5 @@
+io\serumdev\clansystem\listeners\LoginListener.class
+io\serumdev\clansystem\managers\MongoManager.class
+io\serumdev\clansystem\misc\entites\User.class
+io\serumdev\clansystem\BungeeClans.class
+io\serumdev\clansystem\managers\BackendManager.class

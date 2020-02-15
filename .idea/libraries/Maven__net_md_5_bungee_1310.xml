@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.md_5:bungee:1310">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/md_5/bungee/1310/bungee-1310.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/md_5/bungee/1310/bungee-1310-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/md_5/bungee/1310/bungee-1310-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
